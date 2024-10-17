@@ -1,3 +1,5 @@
+//Lucas Ramos Amaral, Leidiane Santos dos Santos
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>    // Para rand() e srand()
